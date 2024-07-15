@@ -1,0 +1,1 @@
+Used the [detr resnet model](https://huggingface.co/facebook/detr-resnet-50) for object detection. The model can identify various objects in an image and provides confidence levels for them. 

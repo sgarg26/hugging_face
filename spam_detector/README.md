@@ -1,0 +1,1 @@
+Used the [bert-base-cased model](https://huggingface.co/google-bert/bert-base-uncased) to classify an email (or any text) into spam/ham categories. Used a large dataset to fine tune the model to get an even better result. 

@@ -1,0 +1,10 @@
+[project]
+name = "p5"
+dependencies = [
+  "torch",
+  "transformers",
+  "ipykernel",
+  "fastapi",
+  "pandas",
+  "numpy"
+]
