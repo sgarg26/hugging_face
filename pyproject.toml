@@ -1,10 +1,14 @@
 [project]
-name = "p5"
 dependencies = [
+  "gymnasium",
+  "box2d",
   "torch",
   "transformers",
   "ipykernel",
   "fastapi",
   "pandas",
-  "numpy"
+  "numpy",
+  "roboflow",
+  "ultralytics",
 ]
+name = "p5"
