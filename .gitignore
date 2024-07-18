@@ -1,2 +1,7 @@
 __pycache__
 *.wav
+.env
+*.pt
+runs
+yolo/detect_rings
+yolo/data

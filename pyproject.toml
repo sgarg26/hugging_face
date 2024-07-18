@@ -1,5 +1,6 @@
 [project]
 dependencies = [
+  "python-dotenv",
   "gymnasium",
   "box2d",
   "torch",
