@@ -9,7 +9,7 @@ model = SpeechT5ForTextToSpeech.from_pretrained("microsoft/speecht5_tts")
 vocoder = SpeechT5HifiGan.from_pretrained("microsoft/speecht5_hifigan")
 
 inputs = processor(
-    text="This is a test for Microsoft's text to speech model on huggingface. My name is Siddharth Garg",
+    text="This is a test for Microsoft's text to speech model on huggingface. Argentina won the Copa America and Spain won the Euros",
     return_tensors="pt",
 )
 

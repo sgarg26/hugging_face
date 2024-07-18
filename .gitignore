@@ -5,3 +5,5 @@ __pycache__
 runs
 yolo/detect_rings
 yolo/data
+*.onnx
+detect_rings*
