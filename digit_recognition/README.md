@@ -1,0 +1,1 @@
+Used PyTorch and [MNIST digits dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) for training the model. 

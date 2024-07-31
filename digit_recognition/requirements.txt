@@ -1,0 +1,9 @@
+numpy
+pandas
+ipykernel
+matplotlib
+fastapi
+python-multipart
+requests
+transformers[torch]
+evaluate
